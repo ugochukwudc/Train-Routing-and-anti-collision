@@ -1,0 +1,1 @@
+"./vt_100.obj" "./systick_and_uart.obj" "./sysctl.obj" "./spi.obj" "./process.obj" "./main.obj" "./lm3s9d92_startup_ccs.obj" "./gpiof.obj" "./gpioe.obj" "./SVC.obj" "./Memory_Management.obj" "./Assignment_4.obj" -l"libc.a" "../lm3s9d92.cmd" 
